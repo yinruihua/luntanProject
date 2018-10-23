@@ -1,0 +1,16 @@
+2018-10-15 15:20:12,203 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-15 15:20:12,203 - BrowserEngine - INFO - The test server url is :http://192.101.1.26/upload/forum.php
+2018-10-15 15:20:15,629 - BrowserEngine - INFO - Staring chrome browser.
+2018-10-15 15:20:23,771 - BrowserEngine - INFO - Open url : http://192.101.1.26/upload/forum.php
+2018-10-15 15:20:24,905 - BrowserEngine - INFO - Maxmize the current window
+2018-10-15 15:20:24,908 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2018-10-15 15:20:25,151 - BasePage - INFO - The element  was send.
+2018-10-15 15:20:25,343 - BasePage - INFO - The element  was send.
+2018-10-15 15:20:25,424 - BasePage - INFO - The element 登录 was click.
+2018-10-15 15:20:39,931 - BasePage - INFO - The element haha was click.
+2018-10-15 15:20:53,334 - BasePage - INFO - The element  was send.
+2018-10-15 15:20:53,606 - BasePage - INFO - The element  was send.
+2018-10-15 15:20:53,684 - BasePage - INFO - The element 发表帖子 was click.
+2018-10-15 15:21:11,035 - BasePage - INFO - The element  was send.
+2018-10-15 15:21:11,120 - BasePage - INFO - The element 发表回复 was click.
+2018-10-15 15:21:12,583 - BasePage - INFO - The element 退出 was click.

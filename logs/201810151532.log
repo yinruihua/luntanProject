@@ -1,0 +1,26 @@
+2018-10-15 15:32:12,176 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-15 15:32:12,177 - BrowserEngine - INFO - The test server url is :http://192.101.1.26/upload/forum.php
+2018-10-15 15:32:14,995 - BrowserEngine - INFO - Staring chrome browser.
+2018-10-15 15:32:23,229 - BrowserEngine - INFO - Open url : http://192.101.1.26/upload/forum.php
+2018-10-15 15:32:24,369 - BrowserEngine - INFO - Maxmize the current window
+2018-10-15 15:32:24,373 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2018-10-15 15:32:24,695 - BasePage - INFO - The element  was send.
+2018-10-15 15:32:24,961 - BasePage - INFO - The element  was send.
+2018-10-15 15:32:25,066 - BasePage - INFO - The element 登录 was click.
+2018-10-15 15:32:39,935 - BasePage - INFO - The element haha was click.
+2018-10-15 15:32:58,378 - BasePage - INFO - The element  was click.
+2018-10-15 15:33:11,475 - BasePage - INFO - The element 发起投票 was click.
+2018-10-15 15:33:24,270 - BasePage - INFO - The element  was send.
+2018-10-15 15:33:24,486 - BasePage - INFO - The element  was send.
+2018-10-15 15:33:24,680 - BasePage - INFO - The element  was send.
+2018-10-15 15:33:27,870 - BasePage - INFO - The element  was send.
+2018-10-15 15:33:27,965 - BasePage - INFO - The element 发起投票 was click.
+2018-10-15 15:33:43,400 - BasePage - INFO - The element  was click.
+2018-10-15 15:33:43,580 - BasePage - INFO - The element 提交 was click.
+2018-10-15 15:33:56,765 - BasePage - INFO - The element 1.  他 was print.
+2018-10-15 15:33:56,863 - BasePage - INFO - The element 100.00% (1) was print.
+2018-10-15 15:33:56,957 - BasePage - INFO - The element 2.  她 was print.
+2018-10-15 15:33:57,055 - BasePage - INFO - The element 0.00% (0) was print.
+2018-10-15 15:33:57,146 - BasePage - INFO - The element 3.  它 was print.
+2018-10-15 15:33:57,242 - BasePage - INFO - The element 0.00% (0) was print.
+2018-10-15 15:33:57,329 - BasePage - INFO - The element 谁最棒 was print.

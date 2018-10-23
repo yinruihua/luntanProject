@@ -1,0 +1,8 @@
+2018-10-16 08:55:40,269 - BrowserEngine - INFO - You had select Chrome browser.
+2018-10-16 08:55:40,270 - BrowserEngine - INFO - The test server url is :http://192.101.1.26/upload/forum.php
+2018-10-16 08:55:43,190 - BrowserEngine - INFO - Staring chrome browser.
+2018-10-16 08:55:46,804 - BrowserEngine - INFO - Open url : http://192.101.1.26/upload/forum.php
+2018-10-16 08:55:47,930 - BrowserEngine - INFO - Maxmize the current window
+2018-10-16 08:55:47,932 - BrowserEngine - INFO - Set implicitly wait 5 seconds
+2018-10-16 08:55:59,392 - BasePage - INFO - Had take screenshot and save to folder : /screenshots
+2018-10-16 08:55:59,393 - BasePage - ERROR -  <pageobjects.login_luntan.Login object at 0x00000221308337B8> 页面中未能找到 ('name', 'username') 元素
