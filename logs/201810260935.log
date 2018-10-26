@@ -1,0 +1,8 @@
+2018-10-26 09:35:03,710 - BrowserEngine -INFO -You had select Chrome browser.
+2018-10-26 09:35:03,711 - BrowserEngine -INFO -The test server url is :http://192.101.1.26/upload/forum.php
+2018-10-26 09:35:06,539 - BrowserEngine -INFO -Staring chrome browser.
+2018-10-26 09:35:27,772 - BrowserEngine -INFO -Open url : http://192.101.1.26/upload/forum.php
+2018-10-26 09:35:28,900 - BrowserEngine -INFO -Maxmize the current window
+2018-10-26 09:35:28,903 - BrowserEngine -INFO -Set implicitly wait 5 seconds
+2018-10-26 09:35:30,303 - BasePage -INFO -The element  was send.
+2018-10-26 09:35:32,520 - BasePage -INFO -The element  was click.

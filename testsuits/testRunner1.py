@@ -1,12 +1,12 @@
-import HTMLTestRunner
+﻿import HTMLTestRunner
 import os
 import unittest
 import time
 
 report_path = os.path.dirname(os.path.abspath('.'))+'/test_report/'
-now = time.strftime('%Y-%m-%d-%H_%M_%S' , time.localtime(time.time()))
+#now = time.strftime('%Y-%m-%d-%H_%M_%S' , time.localtime(time.time()))
 
-HtmlFile = report_path+now+'_result.html'
+HtmlFile = report_path+'result.html'
 
 fp = open(HtmlFile ,'wb')
 
